@@ -1,0 +1,44 @@
+#review {
+    padding: 100px 0;
+    background: #fff;
+}
+
+#review h2 {
+    font-size: 40px;
+    color: #000;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 30px;
+}
+
+.slick-track {
+    margin: 0;
+}
+
+.slick-arrow {
+    display: none !important;
+}
+
+.slick-dots {
+    bottom: -50px;
+}
+
+.slick-dots li button {
+    height: 15px;
+    width: 15px;
+    color: red !important;
+    background: #f1ebebcf;
+    border-radius: 50%;
+}
+
+.slick-dots li.slick-active button:before {
+    color: transparent;
+    background: #130f40;
+    height: 15px;
+    width: 15px;
+    border-radius: 50%;
+}
+
+.slick-dots li button:before {
+    color: transparent;
+}

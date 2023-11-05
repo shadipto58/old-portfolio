@@ -1,0 +1,12 @@
+#service {
+    padding: 100px 0;
+    overflow-x: hidden;
+}
+
+#service h2 {
+    font-size: 40px;
+    color: #000;
+    font-weight: 700;
+    text-align: center;
+    padding-bottom: 30px;
+}
